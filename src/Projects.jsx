@@ -5,17 +5,17 @@ const projects = [
   {
     title: 'Jet Engine Design – Onshape',
     description: `Using Onshape, I designed a fully detailed jet engine model focused on both internal turbine dynamics and external structural integrity. The project involved CAD modeling of rotating blades, combustion chambers, shaft integration, and realistic constraints for simulation of operation under varying airflow conditions. This work served as a visualization and demonstration model for basic jet propulsion theory and was used for mechanical analysis.`,
-    image: '/src/jetengine.PNG',
+    image: '/public/jetengine.PNG',
   },
   {
     title: 'Fixed-Wing RC Plane – SolidWorks',
     description: `Designed and simulated a fixed-wing aircraft using SolidWorks. This project involved structural modeling of fuselage, wings, tail assembly, and motor mounts with considerations for CG balancing and aerodynamic drag reduction. The design targeted long-range flights with payload capacity. Simulations included stress analysis on the fuselage and airfoil performance under wind tunnel conditions.`,
-    image: '/src/fixwing2.PNG',
+    image: '/public/fixwing2.PNG',
   },
   {
     title: 'Autonomous Payload Drone – Teknofest Turkey',
     description: `As part of the Teknofest Turkey competition, I led the design and implementation of an autonomous quadcopter for precision payload delivery. The drone utilized a Pixhawk 4 flight controller integrated with GPS, ultrasonic sensors, and telemetry modules. Its mission included autonomous waypoint navigation, payload release via servo actuators, and RTL functionality. The entire system was tested in outdoor environments and optimized for efficient route planning and flight stability.`,
-    image: '/src/0.jpg',
+    image: '/public/0.jpg',
   },
 ];
 
